@@ -1,0 +1,8 @@
+numpy<2
+scikit-surprise
+pandas
+matplotlib
+streamlit
+jupyterlab
+collie
+surprise

@@ -1,0 +1,8 @@
+numpy==1.26.4
+scikit-surprise
+pandas
+matplotlib
+streamlit
+jupyterlab
+scikit-learn
+collie
